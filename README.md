@@ -57,7 +57,7 @@ This is a basic command-line File Management System written in Python. It allows
 ---
 
 ## Download  
-[Click here to download the project files](https://example.com/download)  
+[Click here to download the project files](https://github.com/bidur-timsina/File-Management-System?tab=readme-ov-file)  
 
 ---
 
